@@ -1,0 +1,23 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{F7FFF37F-DB74-408C-840F-BD8B8E955B5B}-DlgOrder]
+Dlg0={F7FFF37F-DB74-408C-840F-BD8B8E955B5B}-SdWelcome-0
+Count=3
+Dlg1={F7FFF37F-DB74-408C-840F-BD8B8E955B5B}-SdStartCopy2-0
+Dlg2={F7FFF37F-DB74-408C-840F-BD8B8E955B5B}-SdFinish-0
+[{F7FFF37F-DB74-408C-840F-BD8B8E955B5B}-SdWelcome-0]
+Result=1
+[{F7FFF37F-DB74-408C-840F-BD8B8E955B5B}-SdStartCopy2-0]
+Result=1
+[Application]
+Name=FUJITSU Scanner USB HotFix
+Version=1.00.0000
+Company=PFU
+Lang=0009
+[{F7FFF37F-DB74-408C-840F-BD8B8E955B5B}-SdFinish-0]
+Result=1
+bOpt1=0
+bOpt2=0

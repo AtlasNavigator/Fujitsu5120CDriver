@@ -1,0 +1,36 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-DlgOrder]
+Dlg0={5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdWelcome-0
+Count=6
+Dlg1={5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdLicense-0
+Dlg2={5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdShowDlgEdit2-0
+Dlg3={5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdAskDestPath-0
+Dlg4={5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdSelectFolder-0
+Dlg5={5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdFinish-0
+[{5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdWelcome-0]
+Result=1
+[{5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdLicense-0]
+Result=1
+[{5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdShowDlgEdit2-0]
+szEdit1=00000000
+szEdit2=VpVp2UcptlcpGv2U
+Result=1
+[{5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdAskDestPath-0]
+szDir=C:\Program Files\Image Processing Option
+Result=1
+[{5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdSelectFolder-0]
+szFolder=Image Processing Software Option
+Result=1
+[Application]
+Name=Image Processing Software Option
+Version=2.0.0.2
+Company=PFU
+Lang=0009
+[{5979A2FD-EDBA-440D-A904-E2140DA4FCA4}-SdFinish-0]
+Result=1
+bOpt1=0
+bOpt2=0
